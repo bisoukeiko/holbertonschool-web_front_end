@@ -208,7 +208,7 @@ ul.row {
     clear: both;
 }
 
-[class*="col_"] {
+[class^="col_"] {
     float: left;
     padding: 0.5rem;
 }
